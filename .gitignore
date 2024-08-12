@@ -1,0 +1,6 @@
+cmake-build-debug
+.idea
+/cmake-build-asan/
+/cmake-build-default/
+/cmake-build-msan/
+/cmake-build-usan/
